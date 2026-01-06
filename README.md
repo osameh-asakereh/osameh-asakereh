@@ -3,13 +3,13 @@
 
 
 <div align="center">
-  <
+ 
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=osameh-asakereh&radius=16&theme=gotham&bg_color=000000&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=003300&hide_border=true&order=5" height="300" alt="activity graph"  />
 </div>
 
 
-🌐 Socials:
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shaba7.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/osameh.asakereh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@shabah313) 
 
  💻 Tech Stack:
