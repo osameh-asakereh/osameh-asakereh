@@ -8,14 +8,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=osameh-asakereh&radius=16&theme=gotham&bg_color=000000&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=003300&hide_border=true&order=5" height="300" alt="activity graph"  />
 </div>
 
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
 
 
 ## 🌐 Socials:
