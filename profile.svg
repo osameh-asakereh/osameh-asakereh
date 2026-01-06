@@ -1,0 +1,138 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="1100" height="1550" viewBox="0 0 1100 1550" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style>
+      .title { fill:#e5e7eb; font:700 38px monospace; }
+      .subtitle { fill:#9ca3af; font:18px monospace; }
+      .h2 { fill:#e5e7eb; font:700 24px monospace; }
+      .text { fill:#9ca3af; font:16px monospace; }
+      .ok { fill:#22c55e; font:15px monospace; }
+      .muted { fill:#6b7280; font:14px monospace; }
+      .divider { stroke:#1f2937; stroke-width:2; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1100" height="1550" rx="30" fill="#0b0f14"></rect>
+
+  <!-- HERO -->
+  <text x="70" y="95" class="title" opacity="0">
+    OSAMEH ASAKEREH
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" fill="freeze"></animate>
+  </text>
+
+  <text x="70" y="135" class="subtitle" opacity="0">
+    Front-End Developer · Full-Stack in Progress · Sweden
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.7s" fill="freeze"></animate>
+  </text>
+
+  <line x1="70" y1="165" x2="1030" y2="165" class="divider"></line>
+
+  <!-- ABOUT -->
+  <text x="70" y="230" class="h2" opacity="0">
+    ABOUT
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.4s" fill="freeze"></animate>
+  </text>
+
+  <text x="70" y="265" class="text" opacity="0">
+    I’m a Front-End Developer based in Sweden, currently expanding into full-stack development.
+  </text>
+  <text x="70" y="290" class="text" opacity="0">
+    I focus on building user-facing interfaces that are clear, maintainable,
+  </text>
+  <text x="70" y="315" class="text" opacity="0">
+    and reliable in real production environments.
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.8s" fill="freeze"></animate>
+  </text>
+
+  <!-- BACKGROUND -->
+  <text x="70" y="380" class="h2" opacity="0">
+    BACKGROUND
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.6s" fill="freeze"></animate>
+  </text>
+
+  <text x="70" y="415" class="text" opacity="0">
+    For over 1.5 years, I’ve worked on GTA V Roleplay development (RAGE:MP),
+  </text>
+  <text x="70" y="440" class="text" opacity="0">
+    contributing to gameplay systems, UI, and server-side integrations
+  </text>
+  <text x="70" y="465" class="text" opacity="0">
+    used by active roleplay communities.
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="3.0s" fill="freeze"></animate>
+  </text>
+
+  <text x="70" y="505" class="text" opacity="0">
+    I’m also the former owner of Crystal Roleplay (RAGE:MP),
+  </text>
+  <text x="70" y="530" class="text" opacity="0">
+    where I gained experience with production systems,
+  </text>
+  <text x="70" y="555" class="text" opacity="0">
+    releases, and technical ownership at community scale.
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="3.5s" fill="freeze"></animate>
+  </text>
+
+  <!-- FOCUS -->
+  <text x="70" y="630" class="h2" opacity="0">
+    WHAT I FOCUS ON
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.4s" fill="freeze"></animate>
+  </text>
+
+  <text x="90" y="665" class="ok" opacity="0">
+    ✓ Responsive and accessible web interfaces
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="4.8s" fill="freeze"></animate>
+  </text>
+  <text x="90" y="690" class="ok" opacity="0">
+    ✓ Clean, maintainable frontend code
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="5.1s" fill="freeze"></animate>
+  </text>
+  <text x="90" y="715" class="ok" opacity="0">
+    ✓ Feature development from idea to release
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="5.4s" fill="freeze"></animate>
+  </text>
+
+  <!-- CURRENT -->
+  <text x="70" y="790" class="h2" opacity="0">
+    CURRENTLY WORKING ON
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="6.2s" fill="freeze"></animate>
+  </text>
+
+  <text x="70" y="825" class="text" opacity="0">
+    Strengthening backend skills (APIs, databases, authentication),
+  </text>
+  <text x="70" y="850" class="text" opacity="0">
+    and shipping end-to-end projects with clear documentation.
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="6.6s" fill="freeze"></animate>
+  </text>
+
+  <!-- LANGUAGES -->
+  <text x="70" y="925" class="h2" opacity="0">
+    LANGUAGES
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="7.4s" fill="freeze"></animate>
+  </text>
+
+  <text x="70" y="960" class="text" opacity="0">
+    Spoken: Swedish · English · Arabic · Farsi/Dari · Urdu
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="7.8s" fill="freeze"></animate>
+  </text>
+
+  <text x="70" y="995" class="text" opacity="0">
+    Development: JavaScript · TypeScript · C# · PHP · MySQL · React · Vue · MongoDB · HTML · CSS
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="8.2s" fill="freeze"></animate>
+  </text>
+
+  <!-- CONTACT -->
+  <line x1="70" y1="1040" x2="1030" y2="1040" class="divider"></line>
+
+  <text x="70" y="1085" class="muted">
+    📫 asakereh.osameh@gmail.com · 📌 See pinned repositories below
+  </text>
+
+  <!-- Cursor -->
+  <rect x="520" y="1065" width="10" height="18" fill="#e5e7eb">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"></animate>
+  </rect>
+
+</svg>
