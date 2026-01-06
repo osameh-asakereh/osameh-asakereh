@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="identity.svg" />
+  <img src="assets/identity.svg" />
 </p>
 
 ---
