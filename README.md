@@ -2,6 +2,13 @@
 **Hi, I’m Osameh** — a Front-End Developer based in Sweden, currently expanding into full-stack** development.<br><br>I’ve spent the last **1.5+ years** building and maintaining features for **GTA V Roleplay** servers (RAGE:MP), with hands-on experience delivering gameplay systems, UI, and server-side integrations in a production community environment. I’m also the **former owner of Crystal Roleplay (RAGE:MP)**.<br><br>**What I focus on**<br><br>* Building responsive, accessible web UIs<br>* Writing clean, maintainable frontend code<br>* Collaborating on features from idea → implementation → release<br><br>**Languages**<br>Swedish • English • Arabic • Farsi/Dari • Urdu
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moooshooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=moooshooo&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moooshooo&radius=16&theme=gotham&bg_color=000000&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=003300&hide_border=true&order=5" height="300" alt="activity graph"  />
+</div>
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shaba7.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/osameh.asakereh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@shabah313) 
 
