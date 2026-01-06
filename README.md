@@ -1,10 +1,9 @@
-# Hi 👋 I'm osameh-asakereh
-
-
-
 <p align="center">
-  <img src="assets/identity.svg" alt="Mission Control HUD" />
+  <img src="identity.svg" />
 </p>
 
 ---
 
+<p align="center">
+  <img src="assets/shabah-gif3.gif" width="400" />
+</p>
